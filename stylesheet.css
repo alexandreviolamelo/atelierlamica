@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Mitr';
+    src: url('Mitr-Light.woff2') format('woff2'),
+        url('Mitr-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mitr';
+    src: url('Mitr-Regular.woff2') format('woff2'),
+        url('Mitr-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Quincy CF';
+    src: url('QuincyCF-Regular.woff2') format('woff2'),
+        url('QuincyCF-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Quincy CF';
+    src: url('QuincyCF-Light.woff2') format('woff2'),
+        url('QuincyCF-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
